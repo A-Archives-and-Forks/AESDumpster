@@ -7,6 +7,9 @@ Works for Unreal Engine 4.19 -> 5.4 Windows exes.
 
 ## Change Log:
 
+**1.3:** <br>
+AES Dumpster 1.3 Online Version:  [https://illusory.dev/aesdumpster/](https://illusory.dev/aesdumpster/) <br>
+
 **1.2.5:** <br>
 -Rewrote source code to make the dumpster its own object anyone can use. <br>
 -Improved key signatures. (tool should now work for more games.) <br>
